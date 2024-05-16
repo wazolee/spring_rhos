@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: "rhos"
+server:
+  port: 8800
+
